@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BookList component snapshot testing 1`] = `
+<div>
+  <h2>
+    Welcome to My Favorite Book Portal
+  </h2>
+  <table
+    border="2"
+  >
+    <tbody>
+      <tr>
+        <th>
+          Book Name
+        </th>
+        <th>
+          Book Author
+        </th>
+      </tr>
+      <tr>
+        <td
+          data-testid="book-name"
+        >
+          Web Programming
+        </td>
+        <td
+          data-testid="book-author"
+        >
+          Stalin
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
